@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lorem Picsum</string>
+
+    <string name="title_picsum">Picsum Gallery</string>
+    <string name="title_bookmarks">Bookmarks</string>
+    <string name="gallery">Gallery</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="could_not_refresh">Could not refresh: %s</string>
+    <string name="unknown_error_occurred">An unknown error occurred</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_bookmarks">No bookmarks</string>
+    <string name="no_results_found">No results found</string>
+    <string name="delete_all_bookmarks">Delete all bookmarks</string>
+</resources>
