@@ -1,9 +1,9 @@
 # Picsum Photos <image src="/images/photo_z.jpg" width=50 height=50>
 
 ## Screenshots
-Screenshot 1:<image src="/images/photo_1.jpg" width=240 height=320>
-Screenshot 2:<image src="/images/photo_2.jpg" width=240 height=320>
-Screenshot 3:<image src="/images/photo_3.jpg" width=240 height=320>
+Screenshot 1:<image src="/images/photo_1.jpg" width=240 height=426>
+Screenshot 2:<image src="/images/photo_2.jpg" width=240 height=426>
+Screenshot 3:<image src="/images/photo_3.jpg" width=240 height=426>
 	
 ## MVVM architecture example in Kotlin
 
