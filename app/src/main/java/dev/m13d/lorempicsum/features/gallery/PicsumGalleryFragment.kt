@@ -101,6 +101,7 @@ class PicsumGalleryFragment : Fragment(R.layout.fragment_gallery_picsum),
                                         ?: getString(R.string.unknown_error_occurred)
                                 )
                             )
+                        else -> {}
                     }.exhaustive
                 }
             }
