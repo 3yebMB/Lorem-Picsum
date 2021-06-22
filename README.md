@@ -1,5 +1,8 @@
 # Picsum Photos <image src="/images/photo_z.jpg" width=50 height=50>
 
+Status of Last Deployment:
+<br><img src="https://github.com/3yebmb/Lorem-Picsum/workflows/Android-CI/badge.svg?branche=master"><br>
+
 ## Screenshots
 <img src="images/photo_1.jpg" alt="Screenshots1" width="240" height="425" />
 <img src="images/photo_2.jpg" alt="Screenshots2" width="240" height="425" />
